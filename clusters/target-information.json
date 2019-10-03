@@ -5326,26 +5326,31 @@
         "calling-code": [
           "+968"
         ],
+        "capital": [
+          "Muscat"
+        ],
+        "currency": [
+          "Rial",
+          "OMR"
+        ],
         "iso-code": [
           "OM",
           "OMN"
-        ],
-        "top-level-domain": ".om",
-	"capital": [
-	  "Muscat"
-	],
-        "currency": [
-          "Rial","OMR"
         ],
         "official-languages": [
           "Arabic"
         ],
         "synomyms": [
-          "عمان‎","ʻumān","the Sultanate of Oman","سلطنة عُمان‎","Salṭanat ʻUmān"
+          "عمان‎",
+          "ʻumān",
+          "the Sultanate of Oman",
+          "سلطنة عُمان‎",
+          "Salṭanat ʻUmān"
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".om"
       },
       "uuid": "086ced26-e92c-4b55-9688-0d716d507ada",
       "value": "Oman"
@@ -5355,16 +5360,17 @@
         "calling-code": [
           "+92"
         ],
+        "capital": [
+          "Islamabad"
+        ],
+        "currency": [
+          "Pakistani rupee",
+          "₨",
+          "PKR"
+        ],
         "iso-code": [
           "PK",
           "PAK"
-        ],
-        "top-level-domain": ".pk",
-	"capital": [
-	  "Islamabad"
-	],
-        "currency": [
-          "Pakistani rupee","₨","PKR"
         ],
         "official-languages": [
           "English",
@@ -5377,7 +5383,8 @@
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".pk"
       },
       "uuid": "6d6c87fd-8da6-465c-a381-b47f3810a6ea",
       "value": "Pakistan"
@@ -5387,30 +5394,38 @@
         "calling-code": [
           "+680"
         ],
-        "iso-code": [
-          "PW",
-          "PLW"
+        "capital": [
+          "Ngerulmud"
         ],
-        "top-level-domain": ".pw",
-	"capital": [
-	  "Ngerulmud"
-	],
         "currency": [
           "$",
           "USD",
           "United States dollar"
         ],
+        "iso-code": [
+          "PW",
+          "PLW"
+        ],
         "official-languages": [
-          "English","Palauan","Japanese","Sonsorolese","Tobian"
+          "English",
+          "Palauan",
+          "Japanese",
+          "Sonsorolese",
+          "Tobian"
         ],
         "synomyms": [
-          "Belau", "Palaos", "Pelew","Republic of Palau","Beluu er a Belau",
+          "Belau",
+          "Palaos",
+          "Pelew",
+          "Republic of Palau",
+          "Beluu er a Belau",
           "パラオ共和国"
         ],
         "territory-type": [
           "Country",
           "Sovereign state in free association with the United States"
-        ]
+        ],
+        "top-level-domain": ".pw"
       },
       "uuid": "3d7ad346-2b4c-4f51-947c-7c0627457174",
       "value": "Palau"
@@ -5420,15 +5435,24 @@
         "calling-code": [
           "+970"
         ],
+        "capital": [
+          "Jerusalem"
+        ],
+        "currency": [
+          "Egyptian pound",
+          "EGP",
+          "Israeli new shekel",
+          "ILS",
+          "Jordanian dinar",
+          "JOD",
+          "Palestine pound",
+          "جنيه فلسطيني",
+          "פונט פלשתינאי א״י",
+          "PSP"
+        ],
         "iso-code": [
           "PS",
           "PSE"
-        ],
-	"capital": [
-	  "Jerusalem"
-	],
-        "currency": [
-          "Egyptian pound","EGP","Israeli new shekel","ILS","Jordanian dinar","JOD","Palestine pound","جنيه فلسطيني","פונט פלשתינאי א״י","PSP"
         ],
         "official-languages": [
           "Arabic"
@@ -5441,7 +5465,9 @@
           "Dawlat Filasṭīn"
         ],
         "territory-type": [
-          "Partially recognized state","UN observer state","Recognized by 137 UN member states",
+          "Partially recognized state",
+          "UN observer state",
+          "Recognized by 137 UN member states",
           "de jure sovereign state"
         ]
       },
@@ -5453,29 +5479,32 @@
         "calling-code": [
           "+507"
         ],
+        "capital": [
+          "Panama City"
+        ],
+        "currency": [
+          "Balboa",
+          "PAB",
+          "$",
+          "USD",
+          "United States dollar"
+        ],
         "iso-code": [
           "PA",
           "PAN"
-        ],
-        "top-level-domain": ".pa",
-	"capital": [
-	  "Panama City"
-	],
-        "currency": [
-          "Balboa","PAB","$",
-          "USD",
-          "United States dollar"
         ],
         "official-languages": [
           "Spanish"
         ],
         "synomyms": [
           "Panamá",
-          "Republic of Panama","República de Panamá"
+          "Republic of Panama",
+          "República de Panamá"
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".pa"
       },
       "uuid": "a38eb164-18f8-4ac8-941c-b9911a85c9c1",
       "value": "Panama"
@@ -5485,26 +5514,34 @@
         "calling-code": [
           "+675"
         ],
+        "capital": [
+          "Port Moresby"
+        ],
+        "currency": [
+          "Papua New Guinean kina",
+          "PGK"
+        ],
         "iso-code": [
           "PG",
           "PNG"
         ],
-        "top-level-domain": ".pg",
-	"capital": [
-	  "Port Moresby"
-	],
-        "currency": [
-          "Papua New Guinean kina","PGK"
-        ],
         "official-languages": [
-          "English","Hiri Motu","PNG Sign Language","Tok Pisin"
+          "English",
+          "Hiri Motu",
+          "PNG Sign Language",
+          "Tok Pisin"
         ],
         "synomyms": [
-          "Papua Niugini","Papua Niu Gini","Independent State of Papua New Guinea","Independen Stet bilong Papua Niugini","Independen Stet bilong Papua Niu Gini"
+          "Papua Niugini",
+          "Papua Niu Gini",
+          "Independent State of Papua New Guinea",
+          "Independen Stet bilong Papua Niugini",
+          "Independen Stet bilong Papua Niu Gini"
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".pg"
       },
       "uuid": "ac70053c-5b3b-42b4-b7de-421f097d74e1",
       "value": "Papua New Guinea"
@@ -5514,26 +5551,31 @@
         "calling-code": [
           "+595"
         ],
+        "capital": [
+          "Asunción"
+        ],
+        "currency": [
+          "Guaraní",
+          "PYG"
+        ],
         "iso-code": [
           "PY",
           "PRY"
         ],
-        "top-level-domain": ".py",
-	"capital": [
-	  "Asunción"
-	],
-        "currency": [
-          "Guaraní","PYG"
-        ],
         "official-languages": [
-          "Spanish","Guarani"
+          "Spanish",
+          "Guarani"
         ],
         "synomyms": [
-          "Paraguái","Republic of Paraguay","República del Paraguay","Tetã Paraguái"
+          "Paraguái",
+          "Republic of Paraguay",
+          "República del Paraguay",
+          "Tetã Paraguái"
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".py"
       },
       "uuid": "d25565ce-babf-4919-8e64-f894c6d099f7",
       "value": "Paraguay"
@@ -5543,16 +5585,16 @@
         "calling-code": [
           "+51"
         ],
+        "capital": [
+          "Lima"
+        ],
+        "currency": [
+          "Sol",
+          "PEN"
+        ],
         "iso-code": [
           "PE",
           "PER"
-        ],
-        "top-level-domain": ".pe",
-	"capital": [
-	  "Lima"
-	],
-        "currency": [
-          "Sol","PEN"
         ],
         "official-languages": [
           "Spanish"
@@ -5566,7 +5608,8 @@
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".pe"
       },
       "uuid": "ff45884e-11e3-4b31-b805-8e4cb6c5e4e8",
       "value": "Peru"
@@ -5576,16 +5619,17 @@
         "calling-code": [
           "+63"
         ],
+        "capital": [
+          "Manila"
+        ],
+        "currency": [
+          "Peso",
+          "₱",
+          "PHP"
+        ],
         "iso-code": [
           "PH",
           "PHL"
-        ],
-        "top-level-domain": ".ph",
-	"capital": [
-	  "Manila"
-	],
-        "currency": [
-          "Peso","₱","PHP"
         ],
         "official-languages": [
           "Filipino",
@@ -5599,7 +5643,8 @@
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".ph"
       },
       "uuid": "61e24be6-cf32-4d0f-a8b3-379a05bac8a9",
       "value": "Philippines"
@@ -5609,18 +5654,21 @@
         "calling-code": [
           "+64"
         ],
+        "capital": [
+          "Adamstown"
+        ],
+        "currency": [
+          "New Zealand dollar",
+          "NZ$",
+          "NZD"
+        ],
         "iso-code": [
           "PN",
           "PCN"
         ],
-	"capital": [
-	  "Adamstown"
-	],
-        "currency": [
-          "New Zealand dollar","NZ$","NZD"
-        ],
         "official-languages": [
-          "English","Pitkern"
+          "English",
+          "Pitkern"
         ],
         "synomyms": [
           "Pitcairn Islands",
@@ -5636,6 +5684,13 @@
         "calling-code": [
           "+48"
         ],
+        "capital": [
+          "Warsaw"
+        ],
+        "currency": [
+          "Polish złoty",
+          "PLN"
+        ],
         "iso-code": [
           "PL",
           "POL"
@@ -5643,23 +5698,18 @@
         "member-of": [
           "NATO"
         ],
-        "top-level-domain": ".pl",
-	"capital": [
-	  "Warsaw"
-	],
-        "currency": [
-          "Polish złoty","PLN"
-        ],
         "official-languages": [
           "Polish"
         ],
         "synomyms": [
           "Polska",
-          "Republic of Poland","Rzeczpospolita Polska"
+          "Republic of Poland",
+          "Rzeczpospolita Polska"
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".pl"
       },
       "uuid": "8e73397d-5c08-477e-9b5c-2ef279b5883b",
       "value": "Poland"
@@ -5669,6 +5719,14 @@
         "calling-code": [
           "+351"
         ],
+        "capital": [
+          "Lisbon"
+        ],
+        "currency": [
+          "€",
+          "EUR",
+          "EURO"
+        ],
         "iso-code": [
           "PT",
           "PRT"
@@ -5676,24 +5734,17 @@
         "member-of": [
           "NATO"
         ],
-        "top-level-domain": ".pt",
-	"capital": [
-	  "Lisbon"
-	],
-        "currency": [
-          "€",
-          "EUR",
-          "EURO"
-        ],
         "official-languages": [
           "Portuguese"
         ],
         "synomyms": [
-          "Portuguese Republic","República Portuguesa"
+          "Portuguese Republic",
+          "República Portuguesa"
         ],
         "territory-type": [
           "Country"
-        ]
+        ],
+        "top-level-domain": ".pt"
       },
       "uuid": "fb9b1e68-2b99-467b-935d-1e98f312d9d6",
       "value": "Portugal"
@@ -5704,17 +5755,17 @@
           "+1-787",
           "+1-939"
         ],
-        "iso-code": [
-          "PR",
-          "PRI"
+        "capital": [
+          "San Juan"
         ],
-	"capital": [
-	  "San Juan"
-	],
         "currency": [
           "$",
           "USD",
           "United States dollar"
+        ],
+        "iso-code": [
+          "PR",
+          "PRI"
         ],
         "official-languages": [
           "Spanish",
@@ -5722,8 +5773,8 @@
         ],
         "synomyms": [
           "Commonwealth of Puerto Rico",
-"Estado Libre Asociado de Puerto Rico",
-"Porto Rico"
+          "Estado Libre Asociado de Puerto Rico",
+          "Porto Rico"
         ],
         "territory-type": [
           "unincorporated territory of the United States",
@@ -5738,9 +5789,29 @@
         "calling-code": [
           "+974"
         ],
+        "capital": [
+          "Doha"
+        ],
+        "currency": [
+          "Riyal",
+          "QAR"
+        ],
         "iso-code": [
           "QA",
           "QAT"
+        ],
+        "official-languages": [
+          "Arabic"
+        ],
+        "synomyms": [
+          "قطر‎",
+          "Qaṭar",
+          "State of Qatar",
+          "دولة قطر",
+          "Dawlat Qatar"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".qa"
       },
@@ -5752,9 +5823,31 @@
         "calling-code": [
           "+242"
         ],
+        "capital": [
+          "Brazzaville"
+        ],
+        "currency": [
+          "Central African CFA franc",
+          "XAF"
+        ],
         "iso-code": [
           "CG",
           "COG"
+        ],
+        "official-languages": [
+          "French"
+        ],
+        "synomyms": [
+          "République du Congo",
+          "Repubilika ya Kôngo",
+          "Republíki ya Kongó",
+          "Congo-Brazzaville",
+          "the Congo Republic",
+          "RotC",
+          "Congo"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".cg"
       },
@@ -5769,6 +5862,13 @@
         "iso-code": [
           "RE",
           "REU"
+        ],
+        "synomyms": [
+          "La Réunion",
+          "Île Bourbon"
+        ],
+        "territory-type": [
+          "Overseas department and region"
         ]
       },
       "uuid": "b5ba4bdb-29c1-4907-b7dc-c2172fd83976",
@@ -5779,12 +5879,28 @@
         "calling-code": [
           "+40"
         ],
+        "capital": [
+          "Bucharest"
+        ],
+        "currency": [
+          "Romanian Leu",
+          "RON"
+        ],
         "iso-code": [
           "RO",
           "ROU"
         ],
         "member-of": [
           "NATO"
+        ],
+        "official-languages": [
+          "Romanian"
+        ],
+        "synomyms": [
+          "România"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".ro"
       },
@@ -5796,9 +5912,30 @@
         "calling-code": [
           "+7"
         ],
+        "capital": [
+          "Moscow"
+        ],
+        "currency": [
+          "Russian ruble",
+          "₽",
+          "RUB"
+        ],
         "iso-code": [
           "RU",
           "RUS"
+        ],
+        "official-languages": [
+          "Russian"
+        ],
+        "synomyms": [
+          "Росси́я",
+          "Rossiya",
+          "Russian Federation",
+          "Российская Федерация",
+          "Rossiyskaya Federatsiya"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".ru"
       },
@@ -5810,9 +5947,32 @@
         "calling-code": [
           "+250"
         ],
+        "capital": [
+          "Kigali"
+        ],
+        "currency": [
+          "Rwandan franc",
+          "RWF"
+        ],
         "iso-code": [
           "RW",
           "RWA"
+        ],
+        "official-languages": [
+          "English",
+          "French",
+          "Kinyarwanda",
+          "Swahili"
+        ],
+        "synomyms": [
+          "U Rwanda",
+          "Republic of Rwanda",
+          "Repubulika y'u Rwanda",
+          "République du Rwanda",
+          "Jamhuri ya Rwanda"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".rw"
       },
@@ -5824,9 +5984,28 @@
         "calling-code": [
           "+590"
         ],
+        "capital": [
+          "Gustavia"
+        ],
+        "currency": [
+          "€",
+          "EUR",
+          "EURO"
+        ],
         "iso-code": [
           "BL",
           "BLM"
+        ],
+        "official-languages": [
+          "French"
+        ],
+        "synomyms": [
+          "Saint-Barthélemy",
+          "Collectivity of Saint Barthélemy",
+          "Collectivité de Saint-Barthélemy"
+        ],
+        "territory-type": [
+          "Overseas collectivity of France"
         ]
       },
       "uuid": "954b2de5-2f0a-477d-8bea-3fa08a52c04c",
@@ -5837,9 +6016,28 @@
         "calling-code": [
           "+290"
         ],
+        "capital": [
+          "Jamestown"
+        ],
+        "currency": [
+          "Saint Helena pound",
+          "£",
+          "SHP",
+          "Pound sterling",
+          "GBP"
+        ],
         "iso-code": [
           "SH",
           "SHN"
+        ],
+        "official-languages": [
+          "English"
+        ],
+        "synomyms": [
+          "Saint Helena, Ascension and Tristan da Cunha"
+        ],
+        "territory-type": [
+          "British Overseas Territory"
         ],
         "top-level-domain": ".sh"
       },
@@ -5851,9 +6049,25 @@
         "calling-code": [
           "+1-869"
         ],
+        "capital": [
+          "Basseterre"
+        ],
+        "currency": [
+          "East Caribbean dollar",
+          "XCD"
+        ],
         "iso-code": [
           "KN",
           "KNA"
+        ],
+        "official-languages": [
+          "English"
+        ],
+        "synomyms": [
+          "Federation of Saint Christopher and Nevis"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".kn"
       },
@@ -5865,9 +6079,25 @@
         "calling-code": [
           "+1-758"
         ],
+        "capital": [
+          "Castries"
+        ],
+        "currency": [
+          "East Caribbean dollar",
+          "XCD"
+        ],
         "iso-code": [
           "LC",
           "LCA"
+        ],
+        "official-languages": [
+          "English"
+        ],
+        "synomyms": [
+          "Sainte-Lucie"
+        ],
+        "territory-type": [
+          "Country"
         ],
         "top-level-domain": ".lc"
       },
@@ -5879,9 +6109,34 @@
         "calling-code": [
           "+590"
         ],
+        "capital": [
+          "Marigot "
+        ],
+        "currency": [
+          "€",
+          "EUR",
+          "EURO",
+          "$",
+          "USD",
+          "United States dollar"
+        ],
         "iso-code": [
           "MF",
           "MAF"
+        ],
+        "official-languages": [
+          "French"
+        ],
+        "synomyms": [
+          "The Friendly Island"
+        ],
+        "territory-type": [
+          "Overseas collectivity"
+        ],
+        "top-level-domain": [
+          ".mf",
+          ".fr",
+          ".gp"
         ]
       },
       "uuid": "164b7a25-b531-4630-a398-0cde3a45e7d6",
@@ -5892,9 +6147,31 @@
         "calling-code": [
           "+508"
         ],
+        "capital": [
+          "Saint-Pierre"
+        ],
+        "currency": [
+          "Euro",
+          "€",
+          "EUR",
+          "Canadian dollar",
+          "C$",
+          "CAD"
+        ],
         "iso-code": [
           "PM",
           "SPM"
+        ],
+        "official-languages": [
+          "French"
+        ],
+        "synomyms": [
+          "Saint-Pierre-et-Miquelon",
+          "Overseas Collectivity of Saint Pierre and Miquelon",
+          "Collectivité d'outre-mer de Saint-Pierre-et-Miquelon"
+        ],
+        "territory-type": [
+          "Overseas collectivity of France"
         ]
       },
       "uuid": "b45d813b-6fc2-4de1-8406-ecb51b70dd42",
@@ -5905,9 +6182,24 @@
         "calling-code": [
           "+1-784"
         ],
+        "capital": [
+          ""
+        ],
+        "currency": [
+          ""
+        ],
         "iso-code": [
           "VC",
           "VCT"
+        ],
+        "official-languages": [
+          ""
+        ],
+        "synomyms": [
+          ""
+        ],
+        "territory-type": [
+          ""
         ],
         "top-level-domain": ".vc"
       },
