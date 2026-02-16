@@ -14,7 +14,9 @@
         "synonyms": [
           "RemoteSecurity"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "absolutesoftsystem.in",
           "absolutestoreindia.com",
@@ -31,7 +33,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "accountable2you.com"
         ]
@@ -41,7 +45,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "371cea48-4425-59e0-ad0d-32edf7d577c2",
       "value": "Ahmyth"
@@ -51,7 +57,9 @@
         "synonyms": [
           "AiSpyer"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "aispyer.com",
           "aivideoedit.com",
@@ -67,7 +75,9 @@
           "AllTracker",
           "Russcity"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "alltracker.org"
         ]
@@ -80,7 +90,9 @@
         "synonyms": [
           "SpyBunker"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "android007.com",
           "portal.android007.com",
@@ -97,7 +109,9 @@
         "synonyms": [
           "AndroidLost"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "androidlost.com",
           "www.androidlost.com"
@@ -112,7 +126,9 @@
           "AndroidMonitor",
           "UltimatePhoneSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "androidmonitor.com",
           "demo.ultimatephonespy.com",
@@ -132,7 +148,9 @@
           "Dromon",
           "MonitorChecker"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "amon.android-monitor.ru",
           "amon1.android-monitor.ru",
@@ -163,7 +181,9 @@
           "ASpy",
           "AndroSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "a-spy.com",
           "www.a-spy.com"
@@ -174,14 +194,18 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "7d47b8bd-89c4-5bf6-b3d6-4e1737d3fc4b",
       "value": "AndroidSpyApp"
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "84818b4d-7350-55ff-a085-34b53fab96d1",
       "value": "AndroRat"
@@ -191,7 +215,9 @@
         "synonyms": [
           "AntiFurtoDroid"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "antifurtodroid.com"
         ]
@@ -204,7 +230,9 @@
         "synonyms": [
           "AppMia"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "appmia.com",
           "appmia.com.es",
@@ -223,7 +251,9 @@
           "FreeSpy",
           "MobileFindFree"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "app.appspy.net",
           "app.appspyfree.com",
@@ -263,7 +293,9 @@
         "synonyms": [
           "bark"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "bark.us",
           "www.bark.us"
@@ -278,7 +310,9 @@
           "BlurSpy",
           "XOXOSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "blurspy.com",
           "www.blurspy.com",
@@ -290,7 +324,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "useboomerang.com"
         ]
@@ -300,7 +336,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "bosspy.com"
         ]
@@ -310,7 +348,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "brunoespiao.com.br"
         ]
@@ -320,7 +360,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "f289a66c-6279-5ed3-a2f3-e499fd0d50d2",
       "value": "Buhsam"
@@ -330,7 +372,9 @@
         "synonyms": [
           "ControlPhone"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "c-phone.ru"
         ]
@@ -346,7 +390,9 @@
           "Multiverze",
           "Quizmo"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "callsmstracker.com",
           "hiddensmstracker.com",
@@ -367,7 +413,9 @@
         "synonyms": [
           "CatWatchful"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "catwatchful-e03b8.appspot.com",
           "catwatchful.com",
@@ -383,7 +431,9 @@
         "synonyms": [
           "Cerberus"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "cellphonetrackers.org",
           "cerberusapp.com",
@@ -402,7 +452,9 @@
           "ClevGuard",
           "KidsGuard"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "clevguard.com",
           "clevguard.net",
@@ -426,7 +478,9 @@
           "Spyzie",
           "TeenSafe"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "best-mobile-spy.com",
           "cocospy.com",
@@ -461,7 +515,9 @@
         "synonyms": [
           "CouplerTracker"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "coupletracker.com"
         ]
@@ -471,21 +527,27 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "82d0f4cd-6cd7-5792-b8ab-140c6995ca66",
       "value": "Curiosus"
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "6da5c2d4-e97a-5912-889f-65fff03d2e7f",
       "value": "Dash"
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "discovenger.com"
         ]
@@ -495,14 +557,18 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "4c8ce0a8-1555-5333-8ab2-7fa55aa921cc",
       "value": "DroidWatcher"
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "eaglespy.com.br",
           "prontodigital.com.br"
@@ -516,7 +582,9 @@
         "synonyms": [
           "EasyLogger"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "childsafetytrackerapp.com",
           "logger.mobi",
@@ -534,7 +602,9 @@
           "EasyPhoneTrack",
           "Ppapp"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "easyphonetrack.com",
           "mobil-kem.com",
@@ -551,7 +621,9 @@
           "EspiaoAndroid",
           "FoxSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "foxspy.com.br"
         ]
@@ -564,7 +636,9 @@
         "synonyms": [
           "Spyrix"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "evaspy.com",
           "login.evaspy.com",
@@ -577,7 +651,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "familyorbit.com",
           "www.familyorbit.com"
@@ -588,7 +664,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "accounts.wondershare.com",
           "famisafe.wondershare.com",
@@ -603,7 +681,9 @@
         "synonyms": [
           "Mitbe"
         ],
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "famishield.usibtheteam.com"
         ]
@@ -616,7 +696,9 @@
         "synonyms": [
           "MobileSpyIo"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "admin.fenced.ai",
           "demo.fenced.ai",
@@ -631,7 +713,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "discount.findmykids.org",
           "findmykids.org"
@@ -645,7 +729,9 @@
         "synonyms": [
           "InMobi"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "find-myphone.com"
         ]
@@ -655,7 +741,9 @@
     },
     {
       "meta": {
-        "type": "watchware"
+        "type": [
+          "watchware"
+        ]
       },
       "uuid": "ec110cd4-3807-5b7e-81f8-ee95f13a915f",
       "value": "FlareFamilyLocator"
@@ -665,7 +753,9 @@
         "synonyms": [
           "FlashKeylog"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "flashkeylogger.com"
         ]
@@ -678,7 +768,9 @@
         "synonyms": [
           "FlexiSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "blog.flexispy.com",
           "community.flexispy.com",
@@ -701,7 +793,9 @@
         "synonyms": [
           "FreeAndroidSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "freeandroidspy.com"
         ]
@@ -711,7 +805,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "geozilla.com",
           "geozillahelp.zendesk.com"
@@ -725,7 +821,9 @@
         "synonyms": [
           "GPSTrackerLoki"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "asgardtech.ru"
         ]
@@ -742,7 +840,9 @@
           "MobiiSpy",
           "SpyHide"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "1topspy.com",
           "account.mobile-remote-tracker.com",
@@ -785,7 +885,9 @@
           "SurePoint",
           "TurboSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "auto-forward.com",
           "autoforward.app",
@@ -819,7 +921,9 @@
           "Refog",
           "SpyBubble"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "br.refog.com",
           "de.refog.com",
@@ -851,7 +955,9 @@
         "synonyms": [
           "iKeyMonitor"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "easemon.com"
         ]
@@ -864,7 +970,9 @@
         "synonyms": [
           "iMonitorSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "imonitorsoft.cn",
           "www.imonitorsoft.cn",
@@ -876,7 +984,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mobile-spy.co.za"
         ]
@@ -886,7 +996,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "fe6c8410-c65a-586b-bfc1-fcf2bbefe320",
       "value": "ISpy"
@@ -896,7 +1008,9 @@
         "synonyms": [
           "ttspy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "www.jjspy.com",
           "www.ttspy.com"
@@ -907,7 +1021,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "juju.co.ke",
           "www.juju.co.ke"
@@ -918,14 +1034,18 @@
     },
     {
       "meta": {
-        "type": "watchware"
+        "type": [
+          "watchware"
+        ]
       },
       "uuid": "c9bedb58-54bc-50e9-87f5-8186e78dc26b",
       "value": "KasperskySafeKids"
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "kiddoware.com"
         ]
@@ -935,7 +1055,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "kidgy.com"
         ]
@@ -945,7 +1067,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "kid-control.com",
           "kid-control.ru"
@@ -956,7 +1080,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "kidslox.com",
           "kidsloxsupport.zendesk.com",
@@ -980,7 +1106,9 @@
           "Triada",
           "VipTelefonProgrami"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "backupsoft.eu",
           "freespyapp.com",
@@ -1012,7 +1140,9 @@
           "RemCmd",
           "RemoteCommand"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "bbiindia.com",
           "letmespy.com",
@@ -1028,7 +1158,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "life360-wordpress.s3.amazonaws.com",
           "life360.com",
@@ -1041,7 +1173,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "lockittight.com",
           "www.lockittight.com"
@@ -1052,7 +1186,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "0800e4db-81b7-5b54-9cb2-9ec8d9b2b340",
       "value": "LoveSpy"
@@ -1062,7 +1198,9 @@
         "synonyms": [
           "maglook"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "maglook.eu"
         ]
@@ -1076,7 +1214,9 @@
           "ForeverSpy",
           "Metasploit"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "foreverspy.com"
         ]
@@ -1089,7 +1229,9 @@
         "synonyms": [
           "MeuSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "espiao.meuspy.com",
           "espiaodecelulargratis.com.br",
@@ -1103,7 +1245,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "family.microsoft.com"
         ]
@@ -1113,7 +1257,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "family.mmguardian.com",
           "mmguardian.com",
@@ -1125,7 +1271,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "mobilefence.com",
           "www.mobilefence.com"
@@ -1136,7 +1284,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "de.mobilespy.at",
           "es.mobilespy.at",
@@ -1158,7 +1308,9 @@
           "MobTool",
           "MobileTool"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mobiletool.ru",
           "mtoolapp.biz",
@@ -1179,7 +1331,9 @@
           "MonitorLoverman",
           "TrackMobil"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "br.loverman.net",
           "br.mobile-tracker-free.com",
@@ -1216,7 +1370,9 @@
         "synonyms": [
           "MobiSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mobispy.net"
         ]
@@ -1230,7 +1386,9 @@
           "MobiStealth",
           "Stealthcell"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mobistealth.com",
           "www.mobilestealthreview.com",
@@ -1242,7 +1400,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mocospy.com"
         ]
@@ -1252,7 +1412,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "www.spyequipmentuk.co.uk"
         ]
@@ -1265,7 +1427,9 @@
         "synonyms": [
           "mobrec"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mobilerecorder24.com",
           "mrecorder.com"
@@ -1286,7 +1450,9 @@
           "mSpy",
           "mSpyOnline"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "bill-msp.app",
           "cart.mspy.com",
@@ -1341,7 +1507,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "dc-407883c18502.mspyitaly.com",
           "mspyitaly.com",
@@ -1357,7 +1525,9 @@
           "CellSpy",
           "MCSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "cezz.me",
           "mycellspy.com",
@@ -1369,7 +1539,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "myspyapps.com"
         ]
@@ -1379,7 +1551,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mzanzispy.co.za"
         ]
@@ -1392,7 +1566,9 @@
         "synonyms": [
           "Spyoo"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "admin.nemospy.com",
           "nemospy.com"
@@ -1406,7 +1582,9 @@
         "synonyms": [
           "NeoSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "neospy.net",
           "neospy.pro",
@@ -1419,7 +1597,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "netnanny.com",
           "www.netnanny.com"
@@ -1433,7 +1613,9 @@
         "synonyms": [
           "NetSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "netspy.net",
           "www.netspy.net"
@@ -1448,7 +1630,9 @@
           "MobileBackup",
           "Oxy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "mobilebackup.biz",
           "nexspy.com",
@@ -1462,7 +1646,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "www.observer.pw"
         ]
@@ -1476,7 +1662,9 @@
           "FamilyLocator",
           "PhoneTrackerByNumber"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "locatorprivacy.com",
           "onelocator.com"
@@ -1492,7 +1680,9 @@
           "OneMonitar",
           "OneSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "ap.chyldmonitor.com",
           "app.onemonitar.com",
@@ -1521,7 +1711,9 @@
           "SaferSpy",
           "WebDetetive"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "admin.webdetetive.com.br",
           "en.ownspy.com",
@@ -1544,7 +1736,9 @@
           "PanSpy",
           "SurveilStar"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "panspy.com",
           "surveilstar.com"
@@ -1555,7 +1749,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "1ff988dc-bb17-5547-8d75-9f5c2f15d62f",
       "value": "PatanSpyApp"
@@ -1565,7 +1761,9 @@
         "synonyms": [
           "pcTattletale"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "www.pctattletale.com"
         ]
@@ -1575,7 +1773,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "phonemonitor.com",
           "users.thephonem.com"
@@ -1593,7 +1793,9 @@
           "RetinaSpy",
           "RetinaX"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "phonesheriff.com",
           "retinax.com",
@@ -1608,7 +1810,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "aksoft.gq",
           "phone-spy.com",
@@ -1620,7 +1824,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "qustodio.com",
           "www.qustodio.com"
@@ -1631,7 +1837,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "rastreadordenamorado.com.br"
         ]
@@ -1641,7 +1849,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "realtime-spy-mobile.com",
           "spytech-web.com",
@@ -1654,7 +1864,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "recomspy.com"
         ]
@@ -1669,7 +1881,9 @@
           "Reptilicus",
           "Vkur"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "apollospy.com",
           "reptilicus.net",
@@ -1681,7 +1895,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "riospy.net",
           "www.riospy.net"
@@ -1692,7 +1908,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "safenet.family"
         ]
@@ -1702,7 +1920,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "screentimelabs.com"
         ]
@@ -1715,14 +1935,18 @@
         "synonyms": [
           "SecretCamRecorder"
         ],
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "0a49214e-9010-54ca-ab12-817632c81cc6",
       "value": "SecretCamRecorder"
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "seekdroid.com"
         ]
@@ -1732,7 +1956,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "sentrypc.com",
           "www.sentrypc.com"
@@ -1746,7 +1972,9 @@
         "synonyms": [
           "ShadowSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "shadow-logs.com",
           "shadow-spy.com",
@@ -1759,7 +1987,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "shadyspy.com",
           "www.shadyspy.com"
@@ -1773,7 +2003,9 @@
         "synonyms": [
           "Hiddad"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "awamisolution.com"
         ]
@@ -1786,7 +2018,9 @@
         "synonyms": [
           "SMForw"
         ],
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "f2717073-ba7a-5f55-89b7-0b554f2a9298",
       "value": "SMSForward"
@@ -1796,7 +2030,9 @@
         "synonyms": [
           "Snoopza"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "demo.snoopza.com",
           "get.snoopza.com",
@@ -1813,7 +2049,9 @@
         "synonyms": [
           "Spy24"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spy24.app",
           "spy24.net"
@@ -1828,7 +2066,9 @@
           "FreeSpyPhone",
           "SpyAdvice"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "freespyphone.net",
           "spyadvice.com"
@@ -1839,7 +2079,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "accounts.pgv4.com",
           "accounts.spyapp.ro",
@@ -1882,21 +2124,27 @@
         "synonyms": [
           "SpyApp247"
         ],
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "109605ca-1226-5cc8-9be2-09aa509144b8",
       "value": "SpyApp247"
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "67e01b67-c8dd-542a-8ebb-e299a065d29f",
       "value": "SpyAppGhazi"
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "9e0c8ce7-4a97-5b59-839a-c22720af300a",
       "value": "SpyDroid"
@@ -1906,7 +2154,9 @@
         "synonyms": [
           "SpyEra"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "affiliate.spyera.com",
           "login.spylogs.com",
@@ -1919,7 +2169,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spyfly.co.za"
         ]
@@ -1932,7 +2184,9 @@
         "synonyms": [
           "SpyHuman"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "services.spyhuman.com",
           "spyhuman.com"
@@ -1946,7 +2200,9 @@
         "synonyms": [
           "Spyier"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spyier.com"
         ]
@@ -1956,7 +2212,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "androidapk.biz",
           "spykontrol.com",
@@ -1971,7 +2229,9 @@
         "synonyms": [
           "SpyLive360"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spylive360.com",
           "www.spylive360.com"
@@ -1982,7 +2242,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spylix.com",
           "www.spylix.com"
@@ -1996,7 +2258,9 @@
         "synonyms": [
           "SpyMasterPro"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spymasterpro.com",
           "www.spymasterpro.com"
@@ -2010,7 +2274,9 @@
         "synonyms": [
           "Spymie"
         ],
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "978bc3eb-50dd-5ede-b80e-606e20d1893a",
       "value": "Spymie"
@@ -2020,7 +2286,9 @@
         "synonyms": [
           "SpyMug"
         ],
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "36255646-a1aa-5169-b936-ed5605df9441",
       "value": "SpyMug"
@@ -2030,7 +2298,9 @@
         "synonyms": [
           "discovenger"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "cart.spynger.net",
           "spynger.net"
@@ -2045,7 +2315,9 @@
           "Scream",
           "Screamon"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spynote.us",
           "www.spynote.us"
@@ -2056,7 +2328,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spyone.pl"
         ]
@@ -2069,7 +2343,9 @@
         "synonyms": [
           "SpyPhoneApp"
         ],
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "bf0665f2-87ec-5560-852a-9d0f0d4a7451",
       "value": "SpyPhoneApp"
@@ -2079,7 +2355,9 @@
         "synonyms": [
           "SpyphoneMobileTracker"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "phonetracker.com",
           "spy-phone-app.com",
@@ -2094,14 +2372,18 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "9d22cce0-f545-5f59-befa-ccfc53c47207",
       "value": "SpySMS"
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "activation.spytec.com",
           "spytec.com",
@@ -2115,7 +2397,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "portal.spytek.co.za",
           "spytek.co.za",
@@ -2130,7 +2414,9 @@
         "synonyms": [
           "SpyToApp"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "spytoapp.com"
         ]
@@ -2140,14 +2426,18 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "549fdd1e-81a5-521b-b343-8dca81239362",
       "value": "Spyzier"
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "pc.myswiftmobilespy.co.za",
           "swiftmobilespy.co.za"
@@ -2161,7 +2451,9 @@
         "synonyms": [
           "TalkLog"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "talklog.tools"
         ]
@@ -2175,7 +2467,9 @@
           "OgyMogy",
           "TheOneSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "ogymogy.com",
           "theonespy.com",
@@ -2202,7 +2496,9 @@
           "XySpy",
           "iSpyoo"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "app.phonespying.com",
           "copy9.com",
@@ -2239,7 +2535,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "childmonitoringsystem.com",
           "www.thewispy.com"
@@ -2253,7 +2551,9 @@
         "synonyms": [
           "Traca"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "demo.traccar.org",
           "traccar.org",
@@ -2270,7 +2570,9 @@
           "TrackingSmart",
           "XZBO"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "onlinefundb.com",
           "trackingsmartphone.com",
@@ -2282,7 +2584,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "trackji.com"
         ]
@@ -2295,7 +2599,9 @@
         "synonyms": [
           "TrackMyPhones"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "trackmyphones.com",
           "www.trackmyphones.com"
@@ -2315,7 +2621,9 @@
           "sap4mobile",
           "spy2mobile"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "account.spytomobile.com",
           "forum.spytomobile.com",
@@ -2339,7 +2647,9 @@
           "IzKid",
           "Kurulum"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "2mata.net",
           "clues4.com",
@@ -2360,7 +2670,9 @@
           "LifeCircle",
           "TrackView"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "chome.zstone.co",
           "lifecircle.app",
@@ -2373,7 +2685,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "app.truple.io",
           "truple.io"
@@ -2387,7 +2701,9 @@
         "synonyms": [
           "uMobix"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "n.umobix.com",
           "spyfer.info",
@@ -2404,7 +2720,9 @@
         "synonyms": [
           "Unisafe"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "unisafe.su",
           "unisafe.techmas.ru",
@@ -2419,7 +2737,9 @@
         "synonyms": [
           "VIPTrack"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "viptrack.ro"
         ]
@@ -2435,7 +2755,9 @@
           "Screentime",
           "atispy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "awarenesstechnologies.com",
           "interguardsoftware.com",
@@ -2449,7 +2771,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "wheresmydroid.com",
           "wmdcommander.appspot.com",
@@ -2464,7 +2788,9 @@
         "synonyms": [
           "WiseMo"
         ],
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "wisemo.com",
           "www.wisemo.com"
@@ -2478,7 +2804,9 @@
         "synonyms": [
           "WtSpy"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "wt-spy.com"
         ]
@@ -2488,7 +2816,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "androidspy.info",
           "xdspy.app"
@@ -2499,7 +2829,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware"
+        "type": [
+          "stalkerware"
+        ]
       },
       "uuid": "5e11fcdb-8faf-50d4-b0f5-2c427dffb1e4",
       "value": "xHunter"
@@ -2509,7 +2841,9 @@
         "synonyms": [
           "Xnore"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "xnore.com"
         ]
@@ -2526,7 +2860,9 @@
           "XNSpy",
           "ZTI"
         ],
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "cp.xnspy.com",
           "xnspy.com"
@@ -2537,7 +2873,9 @@
     },
     {
       "meta": {
-        "type": "stalkerware",
+        "type": [
+          "stalkerware"
+        ],
         "website": [
           "xploitwizer.com"
         ]
@@ -2547,7 +2885,9 @@
     },
     {
       "meta": {
-        "type": "watchware",
+        "type": [
+          "watchware"
+        ],
         "website": [
           "panel.zoemob.com",
           "www.zoemob.com",
