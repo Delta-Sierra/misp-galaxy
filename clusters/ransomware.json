@@ -41050,6 +41050,9 @@
       "value": "clearwater"
     },
     {
+      "uuid": "6d4e8220-f3de-4fd6-b153-e38093954949"
+    },
+    {
       "meta": {
         "links": [
           "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/",
@@ -41098,19 +41101,6 @@
       "value": "blackfield"
     },
     {
-      "meta": {
-        "links": [
-          "http://bu7zr6fotni3qxxoxlcmpikwtp5mjzy7jkxt7akflnm2kwkbdtgtjuid.onion/",
-          "http://158.94.210.11:8000/"
-        ],
-        "refs": [
-          "https://www.ransomlook.io/group/vect"
-        ]
-      },
-      "uuid": "ef0e0107-ebec-5ade-b7d1-e138706ed082",
-      "value": "vect"
-    },
-    {
       "description": "",
       "meta": {
         "links": [
@@ -41125,5 +41115,5 @@
       "value": "the green blood group"
     }
   ],
-  "version": 167
+  "version": 168
 }
