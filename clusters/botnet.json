@@ -2167,12 +2167,7 @@
       "description": "Mirai variant sharing code lineage with Aisuru, DoH C2 via mbedTLS",
       "meta": {
         "refs": [
-          "https://github.com/deepfield/public-research",
-          "https://foresiet.com/blog/mirai-botnet-jackskid-resurgence-nov-2025-iot-threats/",
-          "https://www.secrss.com/articles/87776"
-        ],
-        "synonyms": [
-          "RCtea"
+          "https://github.com/deepfield/public-research"
         ]
       },
       "related": [
@@ -2185,6 +2180,34 @@
         },
         {
           "dest-uuid": "dcbf1aaa-1fdd-4bfc-a35e-145ffdfb5ac5",
+          "tags": [
+            "estimative-language:likelihood-probability=\"likely\""
+          ],
+          "type": "variant-of"
+        },
+        {
+          "dest-uuid": "416f4ed1-a480-445b-a790-16c73d03ab2f",
+          "tags": [
+            "estimative-language:likelihood-probability=\"likely\""
+          ],
+          "type": "variant-of"
+        },
+        {
+          "dest-uuid": "0913ea8c-8ca4-11ee-b9d1-0242ac120002",
+          "tags": [
+            "estimative-language:likelihood-probability=\"likely\""
+          ],
+          "type": "variant-of"
+        },
+        {
+          "dest-uuid": "92f38212-94e2-4d70-9b5e-e977eb1e7b79",
+          "tags": [
+            "estimative-language:likelihood-probability=\"likely\""
+          ],
+          "type": "variant-of"
+        },
+        {
+          "dest-uuid": "e3e91fe2-c7ce-11e8-8e85-6bc15cd2a63c",
           "tags": [
             "estimative-language:likelihood-probability=\"likely\""
           ],
@@ -2296,6 +2319,10 @@
       },
       "uuid": "de4fc700-c18d-4e4a-85d3-71cc834fc732",
       "value": "Maskify"
+    },
+    {
+      "uuid": "416f4ed1-a480-445b-a790-16c73d03ab2f",
+      "value": "Ballista"
     }
   ],
   "version": 42
