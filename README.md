@@ -156,6 +156,14 @@ Category: *Cryptominers* - source: *Open Source Intelligence* - total: *5* eleme
 
 [[HTML](https://www.misp-galaxy.org/cryptominers)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/cryptominers.json)]
 
+## CTI-CMM 1.3
+
+[CTI-CMM 1.3](https://www.misp-galaxy.org/cti-cmm-1-3) - Cyber Threat Intelligence Capability Maturity Model (CTI-CMM) version 1.3 maturity-indicator practices represented as a matrix-like galaxy by stakeholder domain.
+
+Category: *cyber-threat-intelligence-maturity-model* - source: *https://github.com/cti-cmm/framework* - total: *199* elements
+
+[[HTML](https://www.misp-galaxy.org/cti-cmm-1-3)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/cti-cmm-1-3.json)]
+
 ## CyberFundamentals 2023 Assurance Requirements
 
 [CyberFundamentals 2023 Assurance Requirements](https://www.misp-galaxy.org/cyfun-assurance-requirements-2023) - CyberFundamentals 2023 assurance-level control matrix for MISP. Each cluster value is a level-specific control instance with provenance and key-measure metadata; normative text is referenced, not embedded.
@@ -588,6 +596,14 @@ Category: *software* - source: *Open Sources* - total: *31* elements
 
 [[HTML](https://www.misp-galaxy.org/operating-system)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/operating-system.json)]
 
+## PLOT4ai
+
+[PLOT4ai](https://www.misp-galaxy.org/plot4ai) - Practical Library Of Threats 4 Artificial Intelligence (PLOT4ai) risk cards for threat modeling responsible AI systems.
+
+Category: *ai-threat-modeling* - source: *https://github.com/PLOT4ai/plot4ai-library/blob/main/deck.json* - total: *138* elements
+
+[[HTML](https://www.misp-galaxy.org/plot4ai)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/plot4ai.json)]
+
 ## Preventive Measure
 
 [Preventive Measure](https://www.misp-galaxy.org/preventive-measure) - Preventive measures based on the ransomware document overview as published in https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml# . The preventive measures are quite generic and can fit any standard Windows infrastructure and their security measures.
@@ -600,7 +616,7 @@ Category: *measure* - source: *MISP Project* - total: *23* elements
 
 [Producer](https://www.misp-galaxy.org/producer) - List of threat intelligence producer from security vendors to CERTs including any producer of intelligence at large.
 
-Category: *actor* - source: *MISP Project* - total: *129* elements
+Category: *actor* - source: *MISP Project* - total: *131* elements
 
 [[HTML](https://www.misp-galaxy.org/producer)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/producer.json)]
 
@@ -646,7 +662,7 @@ Category: *rsit* - source: *https://github.com/enisaeu/Reference-Security-Incide
 
 ## SCOR - About
 
-[SCOR - About](https://www.misp-galaxy.org/scor-about) - Overview entries to explain the SCOR namespace inside MISP.
+[SCOR - About](https://www.misp-galaxy.org/scor-about) - Framing overview entries for the SCOR MISP Framing. One value per real galaxy (four reference, two informative) plus a top-level Framing overview and a contribution-process entry. Descriptor only; the six real galaxies carry the working vocabulary.
 
 Category: *meta* - source: *Project documentation* - total: *8* elements
 
@@ -654,15 +670,23 @@ Category: *meta* - source: *Project documentation* - total: *8* elements
 
 ## SCOR Attack Paths
 
-[SCOR Attack Paths](https://www.misp-galaxy.org/scor-attack-paths) - Library of converged cross-domain attack paths. Each value is one Attack Path analytic element (AN:ATT:Attack Path:NN) populated with ETENs (Enumerated Taxonomic Element Nomenclatures) per the METEORSTORM data model. The pce_etens/seg_etens/svc_etens/ast_etens lists make every structural ETEN the path touches visible in the cluster detail view; toe aggregates them as the canonical Target-of-Exploitation reference per the analytic-element ontology. Stages are narrative; the path itself is the analytic claim.
+[SCOR Attack Paths](https://www.misp-galaxy.org/scor-attack-paths) - Informative galaxy: known attack paths through converged platforms. Every value uses the TEN form AN-ATT-Attack Path; individual paths are distinguished by meta.display_name and uuid. Each path describes initial access, lateral movement, and intended target (meta.initial-access, meta.lateral-movement, meta.intended-target), and lists the TENs it typically exploits in meta.toe-candidates (TOE reference notes in full TEN form). Relationships to TENs (the actual TOE relationship), Detection Signatures, and Resilience Measures are created by analysts in MISP, not precalculated here.
 
-Category: *attack-pattern* - source: *Open sources curated by the SCOR steward.* - total: *4* elements
+Category: *attack-pattern* - source: *Open sources curated by the SCOR steward.* - total: *8* elements
 
 [[HTML](https://www.misp-galaxy.org/scor-attack-paths)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-attack-paths.json)]
 
+## SCOR Detection Signatures
+
+[SCOR Detection Signatures](https://www.misp-galaxy.org/scor-detection-signatures) - Reference vocabulary for SCOR AN-DET values. Every value uses the TEN form AN-DET-Detection Signature; individual signatures are distinguished by meta.display_name and uuid. Each signature is expressed as a full RootA (roota.io) rule embedded in meta.roota and carries a mandatory METEORSTORM layer mapping (meta.pce, meta.seg, meta.svc, meta.ast), each a METEORSTORM TAG value or NA. TDM relationships to TEN clusters are created by analysts in MISP, not precalculated here.
+
+Category: *scor* - source: *https://misp-galaxy.org/scor-detection-signatures/* - total: *1* elements
+
+[[HTML](https://www.misp-galaxy.org/scor-detection-signatures)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-detection-signatures.json)]
+
 ## SCOR Exposure Domain
 
-[SCOR Exposure Domain](https://www.misp-galaxy.org/scor-exposure-domain) - Five exposure domains that classify how an event reaches the platform: Kinetic, Non-kinetic, Electronic Warfare (EW), Cyber Warfare, and Other (environmental). Applied orthogonally to the SCOR five-layer schema (PCE, SEG, SVC, AST, AN).
+[SCOR Exposure Domain](https://www.misp-galaxy.org/scor-exposure-domain) - Reference vocabulary for the five exposure domains of the METEORSTORM threat model (METEORSTORM Quick Guide Table 2.2). Applied orthogonally to the SCOR layer schema (PCE/SEG/SVC/AST/AN): an analyst attaches an Exposure Domain alongside the layer tags to express attack mode without overloading the layer schema. Each value is stable; UUIDs are immutable.
 
 Category: *exposure-domain* - source: *Project documentation* - total: *5* elements
 
@@ -670,17 +694,25 @@ Category: *exposure-domain* - source: *Project documentation* - total: *5* eleme
 
 ## SCOR Incidents
 
-[SCOR Incidents](https://www.misp-galaxy.org/scor-incidents) - Worked-example incident catalog used to seed an analyst-centric, visual-driven view of cross-domain events. Each incident carries an exposure-domain tag plus SCOR five-layer tags (PCE, SEG, SVC, AST, AN) so analysts can filter by attack mode and pivot across environment, segment, service, asset, and analytic dimensions.
+[SCOR Incidents](https://www.misp-galaxy.org/scor-incidents) - Informative galaxy: an authoritative reference to known space cybersecurity incidents relevant to converged platforms, each carrying a confidence score (meta.confidence, 1-10) and its basis (meta.confidence-basis). Primarily an upskilling resource. Relationships to TENs, Exposure Domains, Detection Signatures, and Resilience Measures are created by analysts in MISP, not precalculated here.
 
-Category: *incident* - source: *Open sources* - total: *11* elements
+Category: *incident* - source: *Open sources* - total: *15* elements
 
 [[HTML](https://www.misp-galaxy.org/scor-incidents)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-incidents.json)]
 
-## SCOR TENs
+## SCOR Resilience Measures
 
-[SCOR TENs](https://www.misp-galaxy.org/scor-tens) - Taxonomic Element Nomenclatures (TENs) of the METEORSTORM five-layer data model. Each value is one stable template (LAYER-TAG-LABEL) that analysts consume during enumeration to produce ETENs (LAYER:TAG:LABEL:ORDINAL) on a specific platform. Attack-path and other analytic cluster values reference these TENs by UUID via related[] arrays with relation type TOE/TDM/TRE per §6.2. Definitions follow METEORSTORM Quick Guide §8.
+[SCOR Resilience Measures](https://www.misp-galaxy.org/scor-resilience-measures) - Reference vocabulary for SCOR AN-RES values. Every value uses the TEN form AN-RES-Resilience Measure; individual measures are distinguished by meta.display_name and uuid. Each measure lists the TENs it protects in meta.tre-candidates (TRE reference notes in full TEN form, each with a description). This galaxy is the normalization bridge for resilience and mitigation content: each measure records equivalent controls from external frameworks (for example SPARTA, SPACE-SHIELD, DEFEND, NIST SP 800-160, CSA CCM) in meta.framework-mappings. The actual TRE relationships to TEN clusters are created by analysts in MISP, not precalculated here.
 
-Category: *meta* - source: *METEORSTORM Quick Guide §8 (Full Data Model).* - total: *30* elements
+Category: *scor* - source: *https://misp-galaxy.org/scor-resilience-measures/* - total: *1* elements
+
+[[HTML](https://www.misp-galaxy.org/scor-resilience-measures)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-resilience-measures.json)]
+
+## SCOR Taxonomic Element Nomenclature
+
+[SCOR Taxonomic Element Nomenclature](https://www.misp-galaxy.org/scor-tens) - Reference nomenclature for the 30 SCOR Taxonomic Elements (TENs) across the five METEORSTORM layers. Vocabulary follows METEORSTORM Quick Guide §8 Tables 8.1,8.5 exactly.
+
+Category: *scor* - source: *https://misp-galaxy.org/scor-tens/* - total: *30* elements
 
 [[HTML](https://www.misp-galaxy.org/scor-tens)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-tens.json)]
 
@@ -816,7 +848,7 @@ Category: *threat-actor* - source: *https://www.publicsafety.gc.ca/cnt/_xml/lstd
 
 [Threat Actor](https://www.misp-galaxy.org/threat-actor) - Known or estimated adversary groups targeting organizations and employees. Adversary groups are regularly confused with their initial operation or campaign. threat-actor-classification meta can be used to clarify the understanding of the threat-actor if also considered as operation, campaign or activity group.
 
-Category: *actor* - source: *MISP Project* - total: *994* elements
+Category: *actor* - source: *MISP Project* - total: *1007* elements
 
 [[HTML](https://www.misp-galaxy.org/threat-actor)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/threat-actor.json)]
 
@@ -888,7 +920,7 @@ Category: *tool* - source: *MISP Project* - total: *606* elements
 
 [UAVs/UCAVs](https://www.misp-galaxy.org/uavs) - OSINT Database of Unmanned Combat Aerial Vehicle
 
-Category: *Military equipment* - source: *OSINT* - total: *739* elements
+Category: *Military equipment* - source: *OSINT* - total: *859* elements
 
 [[HTML](https://www.misp-galaxy.org/uavs)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/uavs.json)]
 
