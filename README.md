@@ -132,6 +132,14 @@ Category: *academic-institution* - source: *ASPI International Cyber Policy Cent
 
 [[HTML](https://www.misp-galaxy.org/china-defence-universities)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/china-defence-universities.json)]
 
+## Concealment Layers for Online Anonymity and Knowledge (CLOAK)
+
+[Concealment Layers for Online Anonymity and Knowledge (CLOAK)](https://www.misp-galaxy.org/cloak) - Concealment Layers for Online Anonymity and Knowledge (CLOAK) is a knowledge base of cybercriminal concealment measures inspired by MITRE ATT&CK. This matrix-like galaxy organises concealment practices across technical, behavioural, and physical layers to support investigation, common referencing, gap analysis, and defensive planning. The source project describes CLOAK as derived from qualitative research over more than 200 OpSec guides and its initial public version as containing 13 tactics, 109 techniques, 679 sub-techniques, and 586 procedures.
+
+Category: *concealment* - source: *https://github.com/Mickinthemiddle/CLOAK* - total: *13* elements
+
+[[HTML](https://www.misp-galaxy.org/cloak)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/cloak.json)]
+
 ## CONCORDIA Mobile Modelling Framework - Attack Pattern
 
 [CONCORDIA Mobile Modelling Framework - Attack Pattern](https://www.misp-galaxy.org/cmtmf-attack-pattern) - A list of Techniques in CONCORDIA Mobile Modelling Framework.
@@ -616,7 +624,7 @@ Category: *measure* - source: *MISP Project* - total: *23* elements
 
 [Producer](https://www.misp-galaxy.org/producer) - List of threat intelligence producer from security vendors to CERTs including any producer of intelligence at large.
 
-Category: *actor* - source: *MISP Project* - total: *131* elements
+Category: *actor* - source: *MISP Project* - total: *132* elements
 
 [[HTML](https://www.misp-galaxy.org/producer)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/producer.json)]
 
@@ -728,7 +736,7 @@ Category: *sector* - source: *CERT-EU* - total: *118* elements
 
 [Sigma-Rules](https://www.misp-galaxy.org/sigma-rules) - MISP galaxy cluster based on Sigma Rules.
 
-Category: *rules* - source: *https://github.com/jstnk9/MISP/tree/main/misp-galaxy/sigma* - total: *3132* elements
+Category: *rules* - source: *https://github.com/jstnk9/MISP/tree/main/misp-galaxy/sigma* - total: *3133* elements
 
 [[HTML](https://www.misp-galaxy.org/sigma-rules)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/sigma-rules.json)]
 
@@ -848,7 +856,7 @@ Category: *threat-actor* - source: *https://www.publicsafety.gc.ca/cnt/_xml/lstd
 
 [Threat Actor](https://www.misp-galaxy.org/threat-actor) - Known or estimated adversary groups targeting organizations and employees. Adversary groups are regularly confused with their initial operation or campaign. threat-actor-classification meta can be used to clarify the understanding of the threat-actor if also considered as operation, campaign or activity group.
 
-Category: *actor* - source: *MISP Project* - total: *1007* elements
+Category: *actor* - source: *MISP Project* - total: *1012* elements
 
 [[HTML](https://www.misp-galaxy.org/threat-actor)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/threat-actor.json)]
 
