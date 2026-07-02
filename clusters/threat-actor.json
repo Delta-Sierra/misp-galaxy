@@ -21144,7 +21144,19 @@
       },
       "uuid": "801b91a5-3764-498d-bb38-16803d458260",
       "value": "Chronus Group"
+    },
+    {
+      "determination": " TA4922 is a Chinese-speaking cybercrime cluster that employs localized HR, payroll, tax, and invoice lures to deliver various malware families, including Atlas RAT, RomulusLoader, and SilentRunLoader. The actor conducts targeted email campaigns, often impersonating trusted authorities, to facilitate credential phishing and fraud. TA4922's operational tempo is high, with a focus on obtaining remote access for financial gain, and it has shown a rapid evolution in its malware arsenal. The group is also noted for using social engineering to shift communications from email to messaging platforms, enhancing their phishing efforts.",
+      "meta": {
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ta4922-suspected-chinese-crime-group-going-global",
+          "https://hexastrike.com/resources/blog/threat-intelligence/trust-the-tunnel-get-the-trojan-silver-fox-delivers-atlas-rat-via-weaponized-vpn-installers/",
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/ta4922"
+        ]
+      },
+      "uuid": "b4254a97-0d84-4c3e-809a-17ae5e9f5a01",
+      "value": "TA4922"
     }
   ],
-  "version": 342
+  "version": 343
 }
