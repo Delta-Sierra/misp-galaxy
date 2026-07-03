@@ -20570,7 +20570,8 @@
           "https://www.trendmicro.com/en_us/research/26/c/teampcp-telnyx-attack-marks-a-shift-in-tactics.html",
           "https://www.trendmicro.com/en_us/research/26/c/inside-litellm-supply-chain-compromise.html",
           "https://tracebit.com/blog/detecting-cicd-supply-chain-attacks-with-canary-credentials",
-          "https://www.crowdstrike.com/en-us/adversaries/altered-spider/"
+          "https://www.crowdstrike.com/en-us/adversaries/altered-spider/",
+          "https://www.ic3.gov/CSA/2026/260702.pdf"
         ],
         "synonyms": [
           "Altered Spider"
@@ -21215,5 +21216,5 @@
       "value": "FulcrumSec"
     }
   ],
-  "version": 343
+  "version": 344
 }
