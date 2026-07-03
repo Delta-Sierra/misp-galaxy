@@ -11144,7 +11144,7 @@
       "description": "According to Proofpoint, RomulusLoader is a C-based loader whose purpose is to download and execute further payloads from a C2. It includes a custom PE loader, dynamic API resolution, and RC4 encryption for embedded payloads, and it sideloads legitimate components to blend into the environment. It operates in a multi-stage fashion, spawning workers that run in other processes to maintain persistence and facilitate C2 communications. As a first-stage loader, it is used to drop follow-on payloads, including remote-management software, enabling broader remote access capabilities for the operator.",
       "meta": {
         "refs": [
-          "https://malpedia.caad.fkie.fraunhofer.de/details/win.romulus_loader",
+          "https://malpedia.caad.fkie.fraunhofer.de/details/win.romulus_loader"
         ]
       },
       "uuid": "e1c9cac8-be25-4781-b65f-b11d539958c1",
